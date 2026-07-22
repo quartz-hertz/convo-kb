@@ -39,7 +39,7 @@ Since this project has no external dependencies, you can simply clone the reposi
 
 ```bash
 git clone https://github.com/quartz-hertz/convo-kb.git
-cd ConvoKB
+cd convo-kb
 ```
 
 ## Usage
